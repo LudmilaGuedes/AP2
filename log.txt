@@ -1,0 +1,2 @@
+2024-11-13 13:23:32,157 - apis - ERROR - Erro na consulta do planilhão: 2024-11-13. Status code: 404
+2024-11-13 13:23:32,157 - backend.views - INFO - Sem Dados no Planilhão: 2024-11-13
